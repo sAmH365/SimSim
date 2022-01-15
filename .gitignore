@@ -35,12 +35,8 @@
 *.suo
 *.VC
 *.ipch
-cpp/CPP_Study/CPP_Study.sln
-cpp/CPP_Study/.vs/CPP_Study/project-colors.json
-cpp/CPP_Study/.vs/CPP_Study/v17/.suo
-cpp/CPP_Study/.vs/CPP_Study/v17/Browse.VC.db
-cpp/CPP_Study/.vs/CPP_Study/v17/ipch/AutoPCH/60f93b50df1b60c9/CPP_STUDY.ipch
-cpp/CPP_Study/CPP_Study/CPP_Study.cpp
+*.suo
+*.db
 *.vcxproj
 *.vcxproj.*
 *.exe.recipe
@@ -50,3 +46,6 @@ cpp/CPP_Study/CPP_Study/CPP_Study.cpp
 *.pdb
 *.tlog
 *.pdb
+*.VC.*
+cpp/*/.vs/
+
